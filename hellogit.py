@@ -1,2 +1,2 @@
 print("Hello Git!")
-print("soy juan pablo")
+print("Eres juan pablo")
